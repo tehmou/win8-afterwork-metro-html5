@@ -15,9 +15,10 @@
         }
 
         #mySvg {
+            position: absolute;
             margin: auto auto;
-            height: 600px;
             width: 800px;
+            height: 600px;
             border: 1px solid black;
             background: #ffffff;
         }
@@ -34,7 +35,7 @@
         
         $(function () {
             var hideFrames = true,
-                svgFilename = "presentation.svg",
+                svgFilename = "presentation copy.svg",
                 mainGroup, slides = [],
                 loadDone = function (svg, error) {
                     if (error) {

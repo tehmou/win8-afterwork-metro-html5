@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="640px" height="480px" viewBox="0 0 640 480" enable-background="new 0 0 640 480" xml:space="preserve">
+<g id="main">
+	
+		<rect id="slide1" x="59.811" y="-179.783" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="322.707" height="230.179"/>
+	
+		<rect id="slide2" x="402.52" y="-190.766" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="338.101" height="241.16"/>
+	
+		<rect id="slide3" x="760.619" y="-179.785" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="322.707" height="230.179"/>
+	
+		<rect id="slide4" x="1100.52" y="-190.766" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="338.101" height="241.16"/>
+	
+		<rect id="slide5" x="1464.716" y="-190.766" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="344.978" height="246.059"/>
+	
+		<rect id="slide6" x="1465.473" y="-69.521" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="479.213" height="341.804"/>
+	
+		<rect id="slide7" x="2048.486" y="36.51" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="344.979" height="246.059"/>
+	
+		<rect id="slide8" x="2048.486" y="168.984" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="479.213" height="341.805"/>
+	
+		<rect id="slide9_1_" x="2638.431" y="174.731" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="672.187" height="479.452"/>
+	
+		<rect id="slide10" x="3468.627" y="-86.144" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="607.751" height="852.061"/>
+	<g>
+		<text transform="matrix(1 0 0 1 92.645 -117.6328)" font-family="'ArialMT'" font-size="36.6957">Windows </text>
+		<text transform="matrix(1 0 0 1 255.314 -117.6328)" font-family="'ArialMT'" font-size="36.6957">8</text>
+		<text transform="matrix(1 0 0 1 92.645 -49.0186)" font-family="'ArialMT'" font-size="36.6957">Metro</text>
+		<text transform="matrix(1 0 0 1 92.645 20.209)" font-family="'ArialMT'" font-size="36.6957">with HTML5</text>
+	</g>
+	<text transform="matrix(1 0 0 1 441.3701 -127.2773)" font-family="'ArialMT'" font-size="36.6957">What?</text>
+	<text transform="matrix(1 0 0 1 531.3701 -24.0098)" enable-background="new    "><tspan x="0" y="0" font-family="'Arial-ItalicMT'" font-size="22">A web page inside</tspan><tspan x="0" y="26.4" font-family="'Arial-ItalicMT'" font-size="22">of a metro app.</tspan></text>
+	<text transform="matrix(1 0 0 1 1494.1562 -151.8867)" font-family="'Arial-ItalicMT'" font-size="22">Making web look Metro:</text>
+	<text transform="matrix(1 0 0 1 2069.1543 72.2598)" font-family="'Arial-ItalicMT'" font-size="22">Making web act Metro:</text>
+	<g>
+		<text transform="matrix(1 0 0 1 792.8555 -117.6328)" font-family="'ArialMT'" font-size="36.6957">Why?</text>
+		<text transform="matrix(1 0 0 1 792.8555 -67.3652)" enable-background="new    "><tspan x="0" y="0" font-family="'Arial-ItalicMT'" font-size="22.0175">- web developers can do it</tspan><tspan x="0" y="26.421" font-family="'Arial-ItalicMT'" font-size="22.0175">- many existing libraries</tspan><tspan x="0" y="52.842" font-family="'Arial-ItalicMT'" font-size="22.0175">- code reuse</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(0 -1 1 0 3601.1025 719.75)" font-family="'ArialMT'" font-size="92.839">This presentation</text>
+		<text transform="matrix(0 -1 1 0 3729.8838 698.8555)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="55.7034">- vector graphics (SVG)</tspan><tspan x="0" y="66.844" font-family="'ArialMT'" font-size="55.7034">- used my old engine</tspan></text>
+	</g>
+	<g>
+		<text transform="matrix(1 0 0 1 2674.8516 279.2422)" font-family="'ArialMT'" font-size="73.2402">Notes</text>
+		<text transform="matrix(1 0 0 1 2691.3359 380.8359)" enable-background="new    "><tspan x="0" y="0" font-family="'ArialMT'" font-size="43.9441">- HTML5 is a solid option</tspan><tspan x="0" y="52.733" font-family="'ArialMT'" font-size="43.9441">- WinJS takes some learning</tspan><tspan x="0" y="105.466" font-family="'ArialMT'" font-size="43.9441">- no WebGL for games</tspan></text>
+	</g>
+	<rect x="1540.09" y="81.889" fill="none" width="352.41" height="271.169"/>
+	<text transform="matrix(1 0 0 1 1540.0898 102.1309)"><tspan x="0" y="0" font-family="'Arial-ItalicMT'" font-size="28.2719">- Metro style components</tspan><tspan x="0" y="46.927" font-family="'Arial-ItalicMT'" font-size="28.2719">- platform utilities</tspan><tspan x="0" y="93.853" font-family="'Arial-ItalicMT'" font-size="28.2719">- optional</tspan></text>
+	<rect x="1128.177" y="-164.928" fill="none" width="202.387" height="112.766"/>
+	<text transform="matrix(1 0 0 1 1128.1768 -146.3354)"><tspan x="0" y="0" font-family="'ArialMT'" font-size="25.9677">How is different </tspan><tspan x="0" y="31.161" font-family="'ArialMT'" font-size="25.9677">from all the other </tspan><tspan x="0" y="62.322" font-family="'ArialMT'" font-size="25.9677">wrapped apps?</tspan></text>
+	<text transform="matrix(1 0 0 1 1184.0479 13.6035)" font-family="'Arial-ItalicMT'" font-size="22">It really is a Metro app.</text>
+	<text transform="matrix(1 0 0 1 1484.9658 36.5098)" font-family="'ArialMT'" font-size="103.4882">WinJS</text>
+	<rect x="2081.86" y="322.164" fill="none" width="433.839" height="278.668"/>
+	<text transform="matrix(1 0 0 1 2081.8604 342.4062)"><tspan x="0" y="0" font-family="'Arial-ItalicMT'" font-size="28.2719">- for things not found in web</tspan><tspan x="0" y="46.927" font-family="'Arial-ItalicMT'" font-size="28.2719">- open files, write files, etc.</tspan><tspan x="0" y="93.854" font-family="'Arial-ItalicMT'" font-size="28.2719">- use C# or C++ from JS</tspan></text>
+	<text transform="matrix(1 0 0 1 2068.7363 268.7861)" font-family="'ArialMT'" font-size="103.4882">WinRT</text>
+</g>
+</svg>

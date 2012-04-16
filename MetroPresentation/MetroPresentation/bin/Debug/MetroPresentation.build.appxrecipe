@@ -15,7 +15,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2012-04-16T16:29:21.940</Modified>
+      <Modified>2012-04-16T19:27:29.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
@@ -59,7 +59,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\presentation copy.svg">
       <PackagePath>presentation copy.svg</PackagePath>
-      <Modified>2012-04-16T17:05:21.011</Modified>
+      <Modified>2012-04-16T19:19:26.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>

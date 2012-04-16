@@ -4,36 +4,26 @@
 <svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="640px" height="480px" viewBox="0 0 640 480" enable-background="new 0 0 640 480" xml:space="preserve">
 <g id="main">
-	<g id="slide1">
-		<path d="M382.643,48.521H59.686v-230.429h322.957V48.521z M59.936,48.271h322.457v-229.929H59.936V48.271z"/>
-	</g>
-	<g id="slide2">
-		<path d="M740.745,48.519H402.395v-241.41h338.351V48.519z M402.645,48.269h337.851v-240.91H402.645V48.269z"/>
-	</g>
-	<g id="slide3">
-		<path d="M1083.451,48.519H760.494V-181.91h322.957V48.519z M760.744,48.269h322.457V-181.66H760.744V48.269z"/>
-	</g>
-	<g id="slide4">
-		<path d="M1438.745,48.519h-338.351v-241.41h338.351V48.519z M1100.645,48.269h337.851v-240.91h-337.851V48.269z"/>
-	</g>
-	<g id="slide5">
-		<path d="M1809.818,53.417h-345.228v-246.309h345.228V53.417z M1464.841,53.167h344.728v-245.809h-344.728V53.167z"/>
-	</g>
-	<g id="slide6">
-		<path d="M1907.386,243.715h-442.038V-71.646h442.038V243.715z M1465.598,243.465h441.538V-71.396h-441.538V243.465z"/>
-	</g>
-	<g id="slide7">
-		<path d="M2393.59,280.693h-345.229V34.385h345.229V280.693z M2048.611,280.443h344.729V34.635h-344.729V280.443z"/>
-	</g>
-	<g id="slide8">
-		<path d="M2494.606,485.221h-446.245V166.859h446.245V485.221z M2048.611,484.971h445.745V167.109h-445.745V484.971z"/>
-	</g>
-	<g id="slide9_1_">
-		<path d="M3310.742,652.309h-672.437V172.606h672.437V652.309z M2638.556,652.059h671.937V172.856h-671.937V652.059z"/>
-	</g>
-	<g id="slide10">
-		<path d="M4076.503,764.042h-608.001V-88.269h608.001V764.042z M3468.752,763.792h607.501V-88.019h-607.501V763.792z"/>
-	</g>
+	
+		<rect id="slide1" x="59.811" y="-181.783" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="322.707" height="230.179"/>
+	
+		<rect id="slide2" x="402.52" y="-192.766" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="338.101" height="241.16"/>
+	
+		<rect id="slide3" x="760.619" y="-181.785" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="322.707" height="230.179"/>
+	
+		<rect id="slide4" x="1100.52" y="-192.766" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="338.101" height="241.16"/>
+	
+		<rect id="slide5" x="1464.716" y="-192.766" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="344.978" height="246.059"/>
+	
+		<rect id="slide6" x="1465.473" y="-71.521" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="441.788" height="315.111"/>
+	
+		<rect id="slide7" x="2048.486" y="34.51" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="344.979" height="246.059"/>
+	
+		<rect id="slide8" x="2048.486" y="166.984" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="445.995" height="318.111"/>
+	
+		<rect id="slide9_1_" x="2638.431" y="172.731" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="672.187" height="479.452"/>
+	
+		<rect id="slide10" x="3468.627" y="-88.144" fill="none" stroke="#000000" stroke-width="0.25" stroke-miterlimit="10" width="607.751" height="852.061"/>
 	<g>
 		<g enable-background="new    ">
 			<path d="M109.562-141.651c0,0-0.404,2.202-0.844,3.854l-4.917,18.165h-3.046l-6.679-25.798h2.642l4.991,20.036

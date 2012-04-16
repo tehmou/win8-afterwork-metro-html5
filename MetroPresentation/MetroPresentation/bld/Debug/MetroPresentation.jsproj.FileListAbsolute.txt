@@ -1,0 +1,13 @@
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bin\Debug\resources.pri
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bin\Debug\AppxManifest.xml
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bin\Debug\MetroPresentation.build.appxrecipe
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bld\Debug\priconfig.xml
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bld\Debug\layout.resfiles
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bld\Debug\resources.resfiles
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bld\Debug\pri.resfiles
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bld\Debug\LanguageQualifiers.txt
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bld\Debug\ProjectArchitectures.txt
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bld\Debug\priconfig.xml.intermediate
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bld\Debug\layout.resfiles.intermediate
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bld\Debug\resources.resfiles.intermediate
+C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bld\Debug\pri.resfiles.intermediate

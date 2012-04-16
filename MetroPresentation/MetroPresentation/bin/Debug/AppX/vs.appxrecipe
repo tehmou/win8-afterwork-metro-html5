@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>TTUO</Machine>
+    <WindowsUser>Timo</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>82AEA835BAFE478A5E7A834D2C1E779CB805BA07DF0CFD06425DD692303DC7BE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>dee648d5-1886-419e-b105-153fdb3932c5_1.0.0.0_neutral__8vf2xsmnh1wm4</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>dee648d5-1886-419e-b105-153fdb3932c5_8vf2xsmnh1wm4!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>dee648d5-1886-419e-b105-153fdb3932c5</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Timo</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <Modified>2012-04-16T16:27:33.514</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2012-04-16T16:29:21.940</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+      <Modified>2012-02-14T12:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\images\smalllogo.png">
+      <PackagePath>images\smalllogo.png</PackagePath>
+      <Modified>2012-02-14T12:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+      <Modified>2012-02-14T12:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\images\storelogo.png">
+      <PackagePath>images\storelogo.png</PackagePath>
+      <Modified>2012-02-14T12:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2012-02-14T12:25:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\js\jquery.svg.css">
+      <PackagePath>js\jquery.svg.css</PackagePath>
+      <Modified>2012-04-16T12:49:29.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\js\jquery-1.4.2.js">
+      <PackagePath>js\jquery-1.4.2.js</PackagePath>
+      <Modified>2012-04-16T12:49:29.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\js\jquery.svg.js">
+      <PackagePath>js\jquery.svg.js</PackagePath>
+      <Modified>2012-04-16T12:49:29.740</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\js\jquery.svganim.js">
+      <PackagePath>js\jquery.svganim.js</PackagePath>
+      <Modified>2012-04-16T12:49:29.745</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\js\jquery.svgdom.js">
+      <PackagePath>js\jquery.svgdom.js</PackagePath>
+      <Modified>2012-04-16T12:49:29.749</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\presentation copy.svg">
+      <PackagePath>presentation copy.svg</PackagePath>
+      <Modified>2012-04-16T17:05:21.011</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Timo\Documents\Visual Studio 11\Projects\win8-afterwork-metro-html5\MetroPresentation\MetroPresentation\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-04-16T16:27:33.445</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\">
+      <Name>Microsoft.WinJS.0.6.Debug</Name>
+      <Version>0.6.8229.0</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.0.6.Debug, MinVersion=0.6.8229.0</FrameworkIdentity>
+      <AppxLocation>C:\Program Files (x86)\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS\0.6\Microsoft.WinJS.0.6.Debug.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

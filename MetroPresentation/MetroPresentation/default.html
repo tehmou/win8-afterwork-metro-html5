@@ -150,11 +150,15 @@
                         showPrevSlide();
                     }
                 };
-        });
+
+                onClick = function () {
+                    showNextSlide();
+                };
+            });
 
 	</script>
 </head>
-<body onkeydown="onKeyDown(event)">
+<body onclick="onClick(event)" onkeydown="onKeyDown(event)">
 <div id="mySvg"></div>
 </body>
 </html>
